@@ -48,10 +48,12 @@ img {
 	opacity: 0.1;
 }
 
-ul {
-	margin-top: 20px;
+button {
 	margin-left: 40px;
-	font-size: 1.8em;
+	margin-top: 20px;
+	height: 28px;
+	font-size: 1.2em;
+	padding-bottom: 4px;
 }
 
 #question {
@@ -60,16 +62,19 @@ ul {
 /*	padding-top: 10px;*/
 }
 
+#question ul {
+	margin-top: 20px;
+	margin-left: 40px;
+	font-size: 1.8em;
+}
+
 #question li {
 	margin-top: 10px;
 }
 
 #points {
 	position: relative;
-	/*float: right;
- 	right: 800px;
- 	top: 55px;*/
- 	left: 1000px;
+ 	left: 1040px;
  	top: 50px;
  	width: 100px;
 }
